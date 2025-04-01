@@ -1,8 +1,8 @@
-name: 极品五笔
+name: 中文五笔
 author: KyleBing
 version: 1.0.0
-description: 86 版极点五笔的输入
-url: https://github.com/Beyond-Input-Method/rime-wubi86-jidian
+description: 方案主题来自 极点五笔
+url: https://github.com/Beyond-Input-Method/rime-wubi86-jidian/tree/master
 createTime: 2023-03-30
 updateTime: 2023-03-30
 # supportPlatforms:
